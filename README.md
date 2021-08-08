@@ -73,6 +73,13 @@ input interger: 0
 
 selected  JAN-2021  to  JUN-2021 <- index 5 and 0 selected
 
+
+**Clean data**
+
+run Clean_CSV.ipynb to clean data
+
+data will be saved in clean_data.csv
+
 The script will take a while to run. Happy scrapping :)
 
 
